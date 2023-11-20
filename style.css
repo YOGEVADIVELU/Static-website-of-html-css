@@ -1,0 +1,114 @@
+body{
+    margin:0px;
+    padding: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-color: blanchedalmond;
+
+}
+.logo img{
+    width: 50px;
+    height: auto;
+}
+.backgroundbanner{
+    background-image: url(../images/backgroundbanner.jpg);
+    background-size: cover;
+    background-position: center;
+    height: 500px;
+
+}
+ul{
+    list-style-type: none;
+    float: right;
+    margin-top:-35px;
+   
+}
+li{
+    display: inline;
+    margin: 10px;
+}
+
+li a{
+    text-transform: capitalize;
+    color: rgb(40, 235, 72);
+   padding: 20px;
+    font-size: 20px;
+}
+li a:hover{
+    color: red;
+    font-family: cursive;
+    font-weight: bold;
+}
+.bannertitle{
+    position: absolute;
+    left:37%;
+    top:25%;
+    text-transform: capitalize;
+    font-size: 25px;
+    color: indigo;
+    
+}
+.bannerpara{
+    position: absolute;
+    left:35%;
+    top:35%;
+    font-size: 20px;
+    
+}
+
+h3{
+   text-align: center;
+   text-transform: uppercase;
+   color: rgb(13, 224, 224);
+   font-size:20px;
+
+}
+.vegimg1{
+    width:200px;
+    height:200px;
+    float:left;
+    padding:20px 50px;
+    
+}
+.vegimg1 img{
+    border:3px solid black;
+}
+.vegimg2{
+    width:200px;
+    height:200px;
+    float:left;
+    padding:20px 50px;
+    
+}
+.vegimg2 img{
+    border:3px solid black;
+}
+.vegimg3{
+    width:200px;
+    height:200px;
+    float:left;
+    padding:20px 50px;
+    
+}
+.vegimg3 img{
+    border:3px solid black;
+}
+.vegimg4{
+    width:200px;
+    height:200px;
+    float:left;
+    padding:20px 80px;
+    
+}
+.vegimg4 img{
+    border:3px solid black;
+}
+.vegimg5{
+    width:200px;
+    height:200px;
+    float:left;
+    padding:20px 50px;
+    
+}
+.vegimg5 img{
+    border:3px solid black;
+}
